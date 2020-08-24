@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874160254869",
+    "firebase_url": "https://diesel-ally-277215.firebaseio.com",
+    "project_id": "diesel-ally-277215",
+    "storage_bucket": "diesel-ally-277215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874160254869:android:1c23076e048e375fc8d09c",
+        "android_client_info": {
+          "package_name": "com.example.internApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874160254869-gvjtpojjjpi3ekc6ter73ei86gbss5bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internApp",
+            "certificate_hash": "f2b9c49c8afc48864128bf5f417978db695ea1d3"
+          }
+        },
+        {
+          "client_id": "874160254869-a9vbp43m05j0bkivdepjje7i4kvbiea9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKOLsXEpR3noTC4D4l8FDlKbk7oMGc1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874160254869-a9vbp43m05j0bkivdepjje7i4kvbiea9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
